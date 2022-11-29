@@ -33,6 +33,19 @@ Discord server:
 
 <!--START_SECTION:waka-->
 
+```text
+From: 07 October 2022 - To: 28 November 2022
+
+Total Time: 166 hrs 38 mins
+
+Kotlin                 145 hrs 47 mins >>>>>>>>>>>>>>>>>>>>>>---   87.49 %
+Groovy                 8 hrs 58 mins   >------------------------   05.38 %
+XML                    6 hrs 6 mins    >------------------------   03.67 %
+Gradle                 2 hrs 52 mins   -------------------------   01.73 %
+Java                   1 hr 52 mins    -------------------------   01.13 %
+GitIgnore file         32 mins         -------------------------   00.32 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align="left">Support:</h2>
