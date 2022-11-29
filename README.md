@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirsonbrz&show_icons=true&locale=en&layout=compact" alt="kirsonbrz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirsonbrz&show_icons=true&locale=en" alt="kirsonbrz" /></p>
+
+![kirson](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
