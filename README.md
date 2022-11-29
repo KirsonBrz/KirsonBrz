@@ -1,45 +1,43 @@
-<h1 align="center">Hi 👋, I'm kirson</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h1 align="center">Hi 👋, I'm Kirill</h1>
+<h3 align="center">A purposeful android developer from St. Petersburg</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirsonbrz&label=Profile%20views&color=0e75b6&style=flat" alt="kirsonbrz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirsonbrz&label=Profile%20views&color=980eb4&style=plastic" alt="kirsonbrz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirsonbrz" alt="kirsonbrz" /></a> </p>
 
-- 🔭 I’m currently working on **Commerce concept**
+- 🔭 The project currently being developed [Ecommerce concept](https://github.com/KirsonBrz/EcommerceConcept)
 
-- 🌱 I’m currently learning **KOTLIN**
+- 🌱 At the moment I am studying **Android Jetpack Compose**
 
-- 📫 How to reach me **kirill0603@gmail.com**
+- ⚡ Сurious fact: **I learn new things every day!**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
+
+💬 I'm in Telegram: [https://t.me/Kirson_Brz](https://t.me/Kirson_Brz)
+
+and VK: [https://vk.com/kirson_brz](https://vk.com/kirson_brz)
+
+📫 Write to me for any questions! **kirill0603@gmail.com**
+
+Discord server:
 <p align="left">
+<a href="https://discord.gg/https://discord.gg/xEyfpcRC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xEyfpcRC" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h2 align="left">Languages and Tools:</h2>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
+![gif](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirsonbrz&show_icons=true&locale=en&layout=compact" alt="kirsonbrz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirsonbrz&show_icons=true&locale=en" alt="kirsonbrz" /></p>
-
-![kirson](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+<h3 align="left">When you're trying to get a job as Junior</h3>
 
 <!--START_SECTION:waka-->
 
-```text
-From: 07 October 2022 - To: 28 November 2022
-
-Total Time: 166 hrs 38 mins
-
-Kotlin                 145 hrs 47 mins >>>>>>>>>>>>>>>>>>>>>>---   87.49 %
-Groovy                 8 hrs 58 mins   >------------------------   05.38 %
-XML                    6 hrs 6 mins    >------------------------   03.67 %
-Gradle                 2 hrs 52 mins   -------------------------   01.73 %
-Java                   1 hr 52 mins    -------------------------   01.13 %
-GitIgnore file         32 mins         -------------------------   00.32 %
-```
-
 <!--END_SECTION:waka-->
+
+<h2 align="left">Support:</h2>
+
+<p align="left"><a href="https://www.buymeacoffee.com/KirsonBrz"> 
+
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KirsonBrz" /></a></p><br><br>
 
