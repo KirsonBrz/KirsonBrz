@@ -18,7 +18,7 @@
 ![progress](https://img.shields.io/badge/Progress-In%20work-yellow)
 
 ![gif](https://media.giphy.com/media/MRfhDXQ0UHHrInH2I7/giphy.gif)
-- 🔭 The project currently being developed [Ecommerce concept](https://github.com/KirsonBrz/EcommerceConcept)
+- 🔭 You can check the project in [Ecommerce concept project page](https://github.com/KirsonBrz/EcommerceConcept)
 
 
 <h3 align="left">Corporate App:</h3>
@@ -26,7 +26,7 @@
 ![progress](https://img.shields.io/badge/Progress-Done-green)
 
 ![gif](https://media.giphy.com/media/mPU7DNgmOvTBEKdCYQ/giphy.gif)
-- 🔭 The project currently being developed [Ecommerce concept](https://github.com/KirsonBrz/EcommerceConcept)
+- 🔭 You can check the project in [CorporateApp project page](https://github.com/KirsonBrz/CorporateApp)
 
 
 <h3 align="left">NewsAPIClient:</h3>
@@ -34,15 +34,13 @@
 ![progress](https://img.shields.io/badge/Progress-Done-green)
 
 ![gif](https://media.giphy.com/media/c35FAqZ5HOnOfd3SsQ/giphy.gif)
-- 🔭 The project currently being developed [Ecommerce concept](https://github.com/KirsonBrz/EcommerceConcept)
+- 🔭 You can check the project in [NewsAPIClient project page](https://github.com/KirsonBrz/NewsAPIClient)
 
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
-
-<h3 align="left">i'm trying to spend at least 40 hours a week writing code </h3>
 
 <!--START_SECTION:waka-->
 
