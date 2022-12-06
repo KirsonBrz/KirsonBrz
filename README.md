@@ -17,7 +17,7 @@
 
 ![progress](https://img.shields.io/badge/Progress-In%20work-yellow)
 
-![gif](https://media.giphy.com/media/MRfhDXQ0UHHrInH2I7/giphy.gif)
+![gif](https://media.giphy.com/media/S8DGH0XKyqWoXH1tPt/giphy.gif)
 - 🔭 You can check the project in [Ecommerce concept project page](https://github.com/KirsonBrz/EcommerceConcept)
 
 
@@ -25,7 +25,7 @@
 
 ![progress](https://img.shields.io/badge/Progress-Done-green)
 
-![gif](https://media.giphy.com/media/mPU7DNgmOvTBEKdCYQ/giphy.gif)
+![gif](https://media.giphy.com/media/ZmnZlqevTwImBPYeAw/giphy.gif)
 - 🔭 You can check the project in [CorporateApp project page](https://github.com/KirsonBrz/CorporateApp)
 
 
@@ -33,7 +33,7 @@
 
 ![progress](https://img.shields.io/badge/Progress-Done-green)
 
-![gif](https://media.giphy.com/media/c35FAqZ5HOnOfd3SsQ/giphy.gif)
+![gif](https://media.giphy.com/media/GDH4Nj2hLIZyMIm8SG/giphy.gif)
 - 🔭 You can check the project in [NewsAPIClient project page](https://github.com/KirsonBrz/NewsAPIClient)
 
 
