@@ -20,14 +20,12 @@
 ![gif](https://media.giphy.com/media/S8DGH0XKyqWoXH1tPt/giphy.gif)
 - 🔭 You can check the project in [Ecommerce concept project page](https://github.com/KirsonBrz/EcommerceConcept)
 
-
-<h3 align="left">Corporate App:</h3>
+<h3 align="left">NewsAPIClient:</h3>
 
 ![progress](https://img.shields.io/badge/Progress-Done-green)
 
-![gif](https://media.giphy.com/media/ZmnZlqevTwImBPYeAw/giphy.gif)
-- 🔭 You can check the project in [CorporateApp project page](https://github.com/KirsonBrz/CorporateApp)
-
+![gif](https://media.giphy.com/media/GDH4Nj2hLIZyMIm8SG/giphy.gif)
+- 🔭 You can check the project in [NewsAPIClient project page](https://github.com/KirsonBrz/NewsAPIClient)
 
 <h3 align="left">Kld Stadium:</h3>
 
@@ -36,12 +34,12 @@
 ![gif](https://media.giphy.com/media/sEliig54YC6yGM0sTU/giphy.gif)
 - 🔭 You can check the project in [Kld Stadium project page](https://github.com/KirsonBrz/KldStadium)
 
-<h3 align="left">NewsAPIClient:</h3>
+<h3 align="left">Corporate App:</h3>
 
-![progress](https://img.shields.io/badge/Progress-Done-green)
+![progress](https://img.shields.io/badge/Progress-Not%20completed-red)
 
-![gif](https://media.giphy.com/media/GDH4Nj2hLIZyMIm8SG/giphy.gif)
-- 🔭 You can check the project in [NewsAPIClient project page](https://github.com/KirsonBrz/NewsAPIClient)
+![gif](https://media.giphy.com/media/ZmnZlqevTwImBPYeAw/giphy.gif)
+- 🔭 You can check the project in [CorporateApp project page](https://github.com/KirsonBrz/CorporateApp)
 
 
 <h2 align="left">Languages and Tools:</h2>
