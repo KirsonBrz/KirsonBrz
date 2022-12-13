@@ -5,13 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirsonbrz" alt="kirsonbrz" /></a> </p>
 
-- 🔭 The project currently being developed [Ecommerce concept](https://github.com/KirsonBrz/EcommerceConcept)
+- 🔭 The project currently being developed [Google Books](https://github.com/KirsonBrz/GoogleBooks)
 
 - 🌱 At the moment I am studying **Android Jetpack Compose**
 
 - ⚡ Сurious fact: **I learn new things every day!**
 
 <h2 align="left">Check out my projects!</h2>
+
+<h3 align="left">Google books:</h3>
+
+![progress](https://img.shields.io/badge/Progress-In%20work-yellow)
+
+![gif](https://media.giphy.com/media/oNMVdYmQ8gGcLm6M7L/giphy.gif)
+- 🔭 You can check the project in [Google books project page](https://github.com/KirsonBrz/GoogleBooks)
 
 <h3 align="left">Ecommerce concept:</h3>
 
